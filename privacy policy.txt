@@ -1,0 +1,9 @@
+A privacy policy is required by law if you use or collect any personal data through your app or website. The single purpose of this agreement is to inform website visitors about your data collection and sharing practices.
+
+A privacy policy is mandatory in 100% of scenarios. Facebook is no exception. Whether you collect information from your Facebook app users or not, you must still have it available.
+
+There are two instances when it is mandatory to provide the URL to a privacy policy in your Facebook app. The first one is when you want to make your app public and allow users to log in and use its features. And the second is if you want it to be listed in Facebook's app store.
+
+In any case, your app will request various information from its users, i.e. Facebook profile ID, credentials, email, name, etc. As such it is mandatory to provide a URL to your privacy policy agreement on your Facebook app settings page.
+
+Facebook authorization protocols are very strict and you won't be able to make your app appear live before you've provided the necessary URL. Even if your app is not collecting any user personal information, you are required to provide a simple privacy policy to inform them about this.
